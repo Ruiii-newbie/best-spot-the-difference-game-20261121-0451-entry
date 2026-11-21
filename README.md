@@ -1,6 +1,8 @@
 # Spot the Difference
 
-[![make.fun · best-spot-the-difference-game-20261121-0451](https://make.fun/badge/best-spot-the-difference-game-20261121-0451.svg)](https://make.fun/bounty/best-spot-the-difference-game-20261121-0451)
+[![make.fun · best-spot-the-difference-game-20261121-0451](https://make.fun/badge/best-spot-the-difference-game-20261121-0451.svg)](https://make.fun/bounty/best-spot-the-difference-game-20261121-0451?utm_source=github&utm_medium=readme&utm_campaign=best-spot-the-difference-game-20261121-0451)
+[![rank](https://make.fun/badge/best-spot-the-difference-game-20261121-0451/Ruiii-newbie/best-spot-the-difference-game-20261121-0451-entry/rank.svg)](https://make.fun/bounty/best-spot-the-difference-game-20261121-0451/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-spot-the-difference-game-20261121-0451)
+[![reward](https://make.fun/badge/best-spot-the-difference-game-20261121-0451/Ruiii-newbie/best-spot-the-difference-game-20261121-0451-entry/reward.svg)](https://make.fun/bounty/best-spot-the-difference-game-20261121-0451?utm_source=github&utm_medium=readme&utm_campaign=best-spot-the-difference-game-20261121-0451)
 
 A complete, original spot-the-difference game that runs in a desktop browser
 from static files with no network request, played with keyboard and mouse.
@@ -45,5 +47,5 @@ node serve.ts   # http://localhost:8080
 
 `vendor/makefun-game.ts` is the kit's unchanged copy of the make.fun game
 library and is added before submitting (the entry program imports it to build
-the dossier). The repository also needs the kit's anchor commit as its root
-(`kit init`) before the build commits.
+the dossier). The repository was created on GitHub after the competition
+opened, which satisfies the repo-created-after-open check.
